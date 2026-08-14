@@ -1,4 +1,4 @@
-### Repository for CU Boulder CRDDS data camp 2024  
+### Repository for CU Boulder CRDDS data camp 2026  
 
 This repository contains materials for the [Data Analysis in Python Workshop](https://cu-boulder-crdds.github.io/Research-Data-Foundations-Camp-2024/content/data-analysis-in-python).  
 
